@@ -2,4 +2,4 @@
 
 Hola, modificando
 
-Configuración del git final, final 2
+Configuración del git final
